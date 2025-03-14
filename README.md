@@ -4,7 +4,7 @@ Bem-vindo ao meu portfólio! Aqui você encontrará informações do Treinamento
 
 ## Sobre Mim
 
-Olá! Sou Heraldo Rodrigues, uma desenvolvedora Front-end apaixonada por criar experiências digitais incríveis. Minha especialidade é em React, HTML e CSS, e estou sempre buscando aprender e aprimorar minhas habilidades.
+Olá! Sou Heraldo Rodrigues, uma desenvolvedor Front-end apaixonada por criar experiências digitais incríveis. Minha especialidade é em React, HTML e CSS, e estou sempre buscando aprender e aprimorar minhas habilidades.
 
 ## Habilidades
 
