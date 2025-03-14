@@ -1,6 +1,6 @@
 # Portfólio de Heraldo Rodrigues - Desenvolvedor Front-end
 
-Bem-vindo ao meu portfólio! Aqui você encontrará informações do Treinamento e apefeiçoamnto das minhas habilidades, projetos e como entrar em contato comigo.
+Bem-vindo ao meu portfólio! Aqui você encontrará informações do Treinamento e apefeiçoamnto das minhas habilidades, no projetos de criação e navegação de um site e como entrar em contato comigo.
 
 ## Sobre Mim
 
